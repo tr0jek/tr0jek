@@ -4,7 +4,7 @@
 - 📫 Kontakt: **perzmichal7@gmail.com**
 - 🛒 Jestem początkującym programistą i zbieram doświadczenie.
 - 🥼 W tym momencie skupiam się na nauce C#.
-- ⭐ Moim celem na 2021 jest doszlifowanie C# i znalezienie pracy jako Junior .net
+- ⭐ Moim celem na 2022 jest doszlifowanie C# i znalezienie pracy jako Junior .net
 - 🐱‍👤 Ciekawoski: Lubie wszelkie aktywności i grać w gry.
 
 <h3 align="left">Kontakt:</h3>
